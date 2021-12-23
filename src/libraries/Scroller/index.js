@@ -12,7 +12,7 @@ import {currentAnimationTimeMillis} from './AnimationUtils';
  * @type {number}
  */
 // const SCROLL_FRICTION = 0.015;
-const SCROLL_FRICTION = 0.03;
+const SCROLL_FRICTION = 7;
 
 const DEFAULT_DURATION = 250;
 const SCROLL_MODE = 0;
